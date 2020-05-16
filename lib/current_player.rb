@@ -4,5 +4,5 @@ counter = 0
 board.each do |turn|
   puts "X"
   puts "O"
-  count += 1
+  counter += 1
 end
